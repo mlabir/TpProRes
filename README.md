@@ -1,6 +1,6 @@
 # TpProRes
 
-Partie 1 : est un jeu tel que le serveur choisi un nombre aleatoire et le client doit le deviné
+Partie 1 : est un jeu tel que le serveur choisi un nombre aléatoire et le client doit le deviné
 
 ![screenJeu](https://user-images.githubusercontent.com/102171913/159919379-6e3b5c09-8b93-4ed5-afef-267db07f8ba0.PNG)
 
